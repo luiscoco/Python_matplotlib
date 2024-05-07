@@ -1,2 +1,2 @@
-# Python_matplotlib
-Python a brief introduction to matplotlib
+# Python a brief introduction to matplotlib
+
